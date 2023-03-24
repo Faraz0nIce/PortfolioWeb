@@ -1,0 +1,100 @@
+body {
+    background-color: #6096B4;
+    margin: 0;
+    resize: auto, auto;
+}
+
+a:hover {
+    color: black;
+}
+
+
+.LandingPage {
+    padding-top: 5%;
+    resize: auto, auto;
+    background-color: #6096B4;
+    padding-bottom: 20%;
+}
+
+.ImFaraz {
+    resize: auto, auto;
+    width: 55%;
+    margin-left: 23%;
+}
+
+.ADev {
+    resize: auto, auto;
+    margin-top: 0;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    color: #EEE9DA;
+}
+
+.AboutDiv {
+    resize: auto, auto;
+    padding-bottom: 10%;
+    background-color: #EEE9DA;
+}
+
+.TitleH1 {
+    resize: auto, auto;
+    border-radius: 10%;
+    border-spacing: 2%;
+    color: #93BFCF;
+    border: solid;
+    margin-top: 5%;
+    margin-left: 43%;
+    font-family: monospace;
+    font-size: 330%;
+    display: inline-block;
+
+}
+
+.AbtMeP {
+    font-size: 170%;
+    text-align: center;
+    color: #6096B4;
+    font-family: monospace;
+}
+
+.AbtMeLList {
+    margin-left: 30%;
+    font-size: 170%;
+    text-align: left;
+    color: #6096B4;
+    font-family: monospace;
+}
+
+.TitleH11 {
+    border-radius: 10%;
+    border-spacing: 2%;
+    color: #EEE9DA;
+    border: solid;
+    margin-top: 5%;
+    font-family: monospace;
+    font-size: 330%;
+    display: inline-block;
+    margin-left: 38%;
+}
+
+.Contact {
+    color: #EEE9DA;
+    font-size: 170%;
+    text-align: center;
+    font-family: monospace;
+}
+
+img {
+    width: 40%;
+    margin-left: 5%;
+    display: inline-block;
+    border-radius: 10px;
+    border: solid;
+    border-color: #6096B4;
+    border-width: 3%;
+}
+
+.DLimk {
+    color: #EEE9DA;
+}
